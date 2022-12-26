@@ -2,7 +2,7 @@
 
 Tema pra ajudar a focar. Light apenas no código.
 
-<img src="./screenshot.png" alt="Screenshot Foco Theme">
+![screenshot](https://raw.githubusercontent.com/josafamarengo/VSCode-Foco-Theme/main/screenshot.png)
 
 **Linkedin**: https://linkedin.com/in/josafamarengo <br>
 **Github**: https://github.com/josafamarengo <br>
