@@ -2,7 +2,7 @@
   "name": "foco",
   "displayName": "Foco",
   "description": "Tema claro, focado no editor de texto, com as barras laterais e menus escuros.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "license": "MIT",
   "engines": {
     "vscode": "^1.74.0"
