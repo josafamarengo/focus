@@ -1,8 +1,8 @@
 {
-  "name": "foco",
-  "displayName": "Foco",
-  "description": "Tema claro, focado no editor de texto, com as barras laterais e menus escuros.",
-  "version": "0.2.0",
+  "name": "foco-light",
+  "displayName": "Foco Light",
+  "description": "Tema claro, focado no editor de texto.",
+  "version": "0.1.0",
   "license": "MIT",
   "engines": {
     "vscode": "^1.74.0"
@@ -14,7 +14,7 @@
   "publisher": "JosafaMarengo",
   "repository": {
     "type": "git",
-    "url": "https://github.com/josafamarengo/VSCode-Foco-Theme.git",
+    "url": "https://github.com/josafamarengo/foco-light.git",
     "branch": "main"
   },
   "keywords": [
@@ -34,7 +34,7 @@
       {
         "label": "Foco",
         "uiTheme": "vs",
-        "path": "./themes/Foco-color-theme.json"
+        "path": "./themes/foco-light-color-theme.json"
       }
     ]
   }
