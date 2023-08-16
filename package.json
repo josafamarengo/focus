@@ -1,4 +1,4 @@
-{
+  {
   "name": "foco-light",
   "displayName": "Foco Light",
   "description": "Tema claro, focado no editor de texto.",
@@ -14,7 +14,7 @@
   "publisher": "JosafaMarengo",
   "repository": {
     "type": "git",
-    "url": "https://github.com/josafamarengo/foco-light.git",
+    "url": "https://github.com/josafamarengo/focus.git",
     "branch": "main"
   },
   "keywords": [
