@@ -2,7 +2,7 @@
   "name": "foco-light",
   "displayName": "Foco Light",
   "description": "Tema claro, focado no editor de texto.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "license": "MIT",
   "engines": {
     "vscode": "^1.74.0"
