@@ -1,6 +1,6 @@
 # Foco
-![Visual Studio Marketplace Last Updated](https://img.shields.io/visual-studio-marketplace/last-updated/JosafaMarengo.foco?style=for-the-badge)
-![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/JosafaMarengo.foco?style=for-the-badge)
+![Visual Studio Marketplace Last Updated](https://img.shields.io/visual-studio-marketplace/last-updated/JosafaMarengo.foco-light?style=for-the-badge)
+![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/JosafaMarengo.foco-light?style=for-the-badge)
 
 Light theme with good contrast.
 
